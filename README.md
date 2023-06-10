@@ -18,13 +18,10 @@ This capstone project involves importing the COVID-19 dataset obtained from OWID
 ### iii: Creating Country Table
 ![Creating Country SQL](https://github.com/KahFoo/Data_Analyst_Project-2/assets/29060103/d9e077be-955e-4455-8469-2b1105b5504a)
 
-### iv: Creating Country Table
-![Creating Country SQL](https://github.com/KahFoo/Data_Analyst_Project-2/assets/29060103/d9e077be-955e-4455-8469-2b1105b5504a)
-
-### v: Creating Covid Cases Table
+### iv: Creating Covid Cases Table
 ![Covid_cases](https://github.com/KahFoo/Data_Analyst_Project-2/assets/29060103/8d5c88c1-a1f3-468f-b57d-e0c0e1e97f1e)
 
-### vi: Creating Covid Deaths Table
+### v: Creating Covid Deaths Table
 ![Covid_deaths](https://github.com/KahFoo/Data_Analyst_Project-2/assets/29060103/0bdcb3d8-502d-463f-8ae3-9a3e38526bec)
 
 
